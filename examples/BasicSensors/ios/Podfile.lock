@@ -347,7 +347,7 @@ PODS:
     - React-jsi (= 0.68.0)
     - React-logger (= 0.68.0)
     - React-perflogger (= 0.68.0)
-  - RNSensors (7.2.1-rc.2):
+  - RNSensors (7.3.6):
     - React-Core
   - SocketRocket (0.6.0)
   - Yoga (1.14.0)
